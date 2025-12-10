@@ -31,7 +31,7 @@ A comprehensive dashboard analyzing global streaming performance of hit tracks, 
 - Spotify charts & danceability index
 
 #### Screenshot:
-![Spotify Dashboard](your-image-link-1)
+example: ![dashboard preview]
 
 File: `spotify_dashboard.pbix`
 
@@ -47,9 +47,9 @@ Retail analytics focused on tracking revenue performance by geography, customer 
 - Monthly sales vs budget analysis
 
 #### Screenshots:
-![Sales Overview](your-image-link-2)
-![Product Details](your-image-link-3)
-![Customer Details](your-image-link-4)
+example: ![dashboard preview]
+example: ![dashboard preview]
+example: ![dashboard preview]
 
 File: `Sales_Dashboard.pbix`
 
@@ -65,7 +65,7 @@ Indian Premier League performance dashboard with team-wise and player-wise stati
 - Season-wise total matches, venues, and scoring trends
 
 #### Screenshot:
-![IPL Dashboard](your-image-link-5)
+example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154415.png)
 
 File: `IPL Analysis 2008 to 2025.pbix`
 
@@ -81,7 +81,7 @@ A data-driven analysis of decades of terrorism incidents worldwide based on the 
 - Terror groups operating by year
 
 #### Screenshot:
-![Terrorism Dashboard](your-image-link-6)
+example: ![dashboard preview]
 
 File: `Global_terrorism_index_new.pbix`
 
