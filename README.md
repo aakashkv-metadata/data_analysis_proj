@@ -81,7 +81,7 @@ A data-driven analysis of decades of terrorism incidents worldwide based on the 
 - Terror groups operating by year
 
 #### Screenshot:
-example: ![dashboard preview]
+example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20153159.png)
 
 File: `Global_terrorism_index_new.pbix`
 
