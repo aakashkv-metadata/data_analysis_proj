@@ -47,9 +47,9 @@ Retail analytics focused on tracking revenue performance by geography, customer 
 - Monthly sales vs budget analysis
 
 #### Screenshots:
-example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154619.png)
-example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154653.png)
-example: ![dashboard preview]
+Report KPI Indexing: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154619.png)
+Sales overview: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154653.png)
+Product overview: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154724.png)
 
 File: `Sales_Dashboard.pbix`
 
