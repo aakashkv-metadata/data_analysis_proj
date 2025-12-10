@@ -48,7 +48,7 @@ Retail analytics focused on tracking revenue performance by geography, customer 
 
 #### Screenshots:
 example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154619.png)
-example: ![dashboard preview]
+example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154653.png)
 example: ![dashboard preview]
 
 File: `Sales_Dashboard.pbix`
