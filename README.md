@@ -31,7 +31,7 @@ A comprehensive dashboard analyzing global streaming performance of hit tracks, 
 - Spotify charts & danceability index
 
 #### Screenshot:
-example: ![dashboard preview]
+example: ![dashboard preview](https://github.com/aakashkv-metadata/data_analysis_proj/blob/main/Screenshot%202025-12-10%20154826.png)
 
 File: `spotify_dashboard.pbix`
 
