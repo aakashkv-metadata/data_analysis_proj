@@ -115,7 +115,7 @@ File: `Global_terrorism_index_new.pbix`
 
 Aakash.kv  
 Data Analyst | Business Intelligence | Azure | Python  
-Contact:(https://www.linkedin.com/in/aakash-kv-4b9342259?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BkxMTgNSiQ0%2BHCbuuH%2BGlYA%3D%3D)| aakashchinnu2004@gmail.com
+Contact:(https://www.linkedin.com/in/aakash-kv-4b9342259?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BkxMTgNSiQ0%2BHCbuuH%2BGlYA%3D%3D)|email: aakashchinnu2004@gmail.com
 
 ---
 
